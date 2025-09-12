@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New User Register for training - with mahi</h1>
+    <h1>New User Register for training</h1>
     <p>Deploy using Docker</p>
     <hr>
      
